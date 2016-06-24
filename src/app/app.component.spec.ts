@@ -7,8 +7,9 @@ import {
   async, inject
 } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import { ViewContainerRef } from '@angular/core';
 
-beforeEachProviders(() => [AppComponent]);
+beforeEachProviders(() => [AppComponent, ViewContainerRef]);
 
 describe('App: Angular2Starter', () => {
   it('should create the app',
