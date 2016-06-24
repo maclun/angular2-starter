@@ -1,5 +1,6 @@
 import { Component, ViewContainerRef } from '@angular/core';
 import { ROUTER_DIRECTIVES } from '@angular/router';
+import './shared/rxjs-operators';
 
 @Component({
   moduleId: module.id,
