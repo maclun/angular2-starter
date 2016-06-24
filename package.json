@@ -1,7 +1,12 @@
 {
   "name": "angular2-starter",
   "version": "0.0.1",
+  "description": "Angular2 Starter with Angular-CLI and some useful stuff",
   "license": "MIT",
+  "author": {
+    "name": "Daniele Ghidoli",
+    "url": "http://bigthink.it"
+  },
   "angular-cli": {},
   "scripts": {
     "start": "ng serve",
