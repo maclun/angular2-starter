@@ -8,7 +8,8 @@
 /** Map relative paths to URLs. */
 const map: any = {
   'ng2-bootstrap': 'vendor/ng2-bootstrap',
-  'moment': 'vendor/moment/moment.js'
+  'moment': 'vendor/moment/moment.js',
+  'underscore': 'vendor/underscore/underscore.js',
 };
 
 /** User packages configuration. */

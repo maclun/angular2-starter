@@ -26,7 +26,8 @@ module.exports = function(defaults) {
       'rxjs/**/*.+(js|js.map)',
       '@angular/**/*.+(js|js.map)',
       'ng2-bootstrap/**/*.js',
-      'moment/moment.js'
+      'moment/moment.js',
+      'underscore/underscore.js'
     ]
   });
   let sass = mergeTrees(_.map(glob.sync('src/**/*.scss'), function(sassFile) {
