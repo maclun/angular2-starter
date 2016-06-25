@@ -5,9 +5,21 @@
   "license": "MIT",
   "author": {
     "name": "Daniele Ghidoli",
-    "url": "http://bigthink.it"
+    "url": "http://danieleghidoli.it"
   },
-  "angular-cli": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghidoz/angular2-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/ghidoz/angular2-starter/issues"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "starter",
+    "seed"
+  ],
   "scripts": {
     "start": "ng serve",
     "postinstall": "typings install",
