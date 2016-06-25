@@ -12,6 +12,7 @@ It kindly comes also with:
  - An Home component, following the new [Angular2 Router tutorial](https://angular.io/docs/ts/latest/guide/router.html)
  - Enabled [RxJS Operators](https://angular.io/docs/ts/latest/guide/server-communication.html#!#enable-rxjs-operators)
  - Handy App Providers import file
+ - App Config file based on environment
 
 You can clone this repository as an Angular2 starter for your projects, instead of using `ng new` and adding every time the things above. 
 

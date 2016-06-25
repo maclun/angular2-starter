@@ -1,6 +1,7 @@
 import { Component, ViewContainerRef } from '@angular/core';
 import { ROUTER_DIRECTIVES } from '@angular/router';
 import './shared/rxjs-operators';
+//import { APP_CONFIG } from './environment';
 
 @Component({
   moduleId: module.id,
@@ -12,5 +13,5 @@ import './shared/rxjs-operators';
 export class AppComponent {
   title = 'app works!';
 
-  constructor(public viewContainerRef: ViewContainerRef) {}
+  constructor(public viewContainerRef: ViewContainerRef) { }
 }

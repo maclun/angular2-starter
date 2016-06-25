@@ -3,9 +3,10 @@
 
 /* jshint node: true */
 
-module.exports = function(environment) {
+module.exports = function(environment, APP_CONFIG) {
   return {
     environment: environment,
+    APP_CONFIG: APP_CONFIG,
     baseURL: '/',
     locationType: 'auto'
   };
