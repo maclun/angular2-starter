@@ -1,6 +1,6 @@
 # Angular2 Starter with Angular-CLI
 
-This project was generated with [Angular-CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
+This project was generated with [Angular-CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
 
 It kindly comes also with:
 
