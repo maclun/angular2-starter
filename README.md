@@ -1,5 +1,9 @@
 # Angular2 Starter with Angular-CLI
 
+[![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
+[![Dependency Status](https://david-dm.org/ghidoz/angular2-starter.svg)](https://david-dm.org/ghidoz/angular2-starter)
+[![devDependency Status](https://david-dm.org/ghidoz/angular2-starter/dev-status.svg)](https://david-dm.org/ghidoz/angular2-starter#info=devDependencies)
+
 This project was generated with [Angular-CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
 
 It kindly comes also with:
