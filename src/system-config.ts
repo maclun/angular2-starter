@@ -14,7 +14,7 @@ const map: any = {
 
 /** User packages configuration. */
 const packages: any = {
-  'ng2-bootstrap': {defaultExtension: 'js'}
+  'ng2-bootstrap': {defaultExtension: 'js', main: 'ng2-bootstrap.js'},
 };
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
